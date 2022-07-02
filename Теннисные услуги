@@ -1,0 +1,44 @@
+<html>
+    <body>
+        <header>
+            <a href="#price">Прайс-лист</a> <a href="#reviews">Отзывы</a> <a href="#photos">Фотографии</a>
+        </header>
+        <main>
+            <h1>Racket repair<br/><img src="https://e7.pngegg.com/pngimages/842/484/png-clipart-red-and-black-tennis-racket-racket-tennis-icon-beautifully-tennis-racket-sport-table-tennis-racket.png" width="200px"/>
+            <img src="https://ke-images.gcdn.co/c9lr05b531diovh19bsg/original.jpg" width="200px"/> <img src="https://www.tennishouse.ru/images/thumbnails/690/690/detailed/58/solinco-tour-bite-125-matassa-corda-da-tennis-200-grey-1920028_A_1.jpg" width="200px"/ height="190px"/></h1> 
+            
+
+            <h2 id="price">Услуги и оплата</h2>
+            <table>
+                <tr>
+                    <td>Название услуги</td>
+                    <td>Оплата</td>
+                    <td>Срок выполнения</td>
+                </tr>
+                <tr>
+                    <td>Натяжка струн</td>
+                    <td>2000 руб.</td>
+                    <td>2 дня</td>
+                </tr>
+                <tr>
+                    <td>Наматавания намотки</td>
+                    <td>от 300 руб.</td>
+                    <td>от 30 мин.</td>
+                </tr>
+                <tr>
+                    <td>Накладка для ручки</td>
+                    <td>от 3000 руб.</td>
+                    <td>1 день</td>
+                </tr>
+            </table>
+            <h2 id="reviews">Отзывы</h2>
+            <p><i>Алексей: </i>Порвались струны на новой ракетке Head.Стрингер натянул струны быстро.Всего за 1 день.</p>
+            <p><i>Антон: </i>Купил ракетку с маленькой ручкой.Сделали накладку, которую наложил Дмитрий.Через несколько дней.Не советую.</p>
+            <p><i>Валентина: </i>Купил намотку фирмы Wilson.Данная намотка меня порадовала своими качествами такими как:1.При поте она впитывает и не скользит в руках.2.Очень липкая.
+            Советую купить тут намотки.
+            <h2 id="photos">Фотографии</h2>
+            <img src="https://sport.insure/upload/iblock/eed/eed7e353f3c765dc8b0ebf20ad599244.jpg" height="250px"/>
+            <img src="https://breakpoint.by/upload/iblock/10c/10c8833549a4f5ae7ed16fc6b09069e8.jpg" height="250px"/>
+            </main>
+    </body>
+</html>
